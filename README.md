@@ -1,4 +1,8 @@
-physical-units
-==============
+# Physical Units on the web
 
-A modest proposal for using real physical units for web-based UIs.
+Problem: CSS units that sound like they should be physical (mm, cm, in,
+etc) actually aren't.
+
+This is an experiment that makes these units truly physical.
+
+This experimental library works only on some devices, but automatically
